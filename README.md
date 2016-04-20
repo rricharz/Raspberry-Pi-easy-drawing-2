@@ -6,7 +6,7 @@
 
 **Important!** This version creates a drawing surface once at the beginning, and you keep
 drawing on the same surface. If you prefer to draw onto a fresh surface each time, use
-http://github/rricharz/Raspberry-Pi-easy-drawing instead.
+http://github.com/rricharz/Raspberry-Pi-easy-drawing instead.
 
 Just replace the simple example with your own code
 
