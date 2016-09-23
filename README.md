@@ -42,7 +42,4 @@ Execute with
   ./application
 ```
 
-Please help to improve this program by tweeting to
-**http://twitter.com/r_richarz** or opening an issue on this repository
-if you have any problem or suggestion.
-  
+Please open an issue on this repository if you have any problem with the program.
